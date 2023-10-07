@@ -1,0 +1,19 @@
+.adn-navBar{
+    z-index: 1000 !important;
+    position: absolute;
+    left: 1%; top: 15%;
+    border-radius: 21px;
+    height: 80%;
+    width:20%; 
+}
+.adn-logo{
+    z-index: 1000 !important;
+    position: absolute;
+    left: 1%; top: 3%;
+    width:20%; 
+    height:10%;
+    border-radius: 18px;
+    padding-left: 2%;
+    padding-top: 1%;
+
+}
